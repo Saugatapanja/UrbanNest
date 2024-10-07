@@ -97,7 +97,7 @@
     width: 240px;
     height: 60px;
     border-radius: 30px;
-    background: #ff4141;
+    background: #e23ace;
     border: none;
     color: white;
     font-size: 20px;
@@ -108,7 +108,7 @@
 }
 
 .offers-left button:hover {
-    background: #e63a3a;
+    background: #f076df;
 }
 
 .offers-right img {
